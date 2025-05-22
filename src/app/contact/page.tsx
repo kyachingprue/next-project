@@ -22,7 +22,7 @@ const page = () => {
         </svg>
         <Meteors number={20} />
       </div>
-      <div className=" mt-24 w-6/12 mx-auto">
+      <div className=" mt-24 w-10/12 md:w-6/12 mx-auto">
         <h2 className="text-center text-white text-2xl md:text-6xl font-bold">
           Contact Us
         </h2>
