@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Eternal Sunrise",
+      "slug": "eternal-sunrise",
+      "description": "A soothing melody that captures the beauty of morning light.Perfect for relaxing and starting your day with peace.",
+      "price": 1.99,
+      "instruction": "Use headphones for best experience.",
+      "isFeatured": true,
+      "image": "https://i.ibb.co/B52J3Qnc/images.jpg"
+    },
+    {
+      "id": 2,
+      "title": "City Lights",
+      "slug": "city-lights",
+      "description": "A chill electronic track inspired by urban nightlife.Great background music for late-night drives.",
+      "price": 2.49,
+      "instruction": "Best enjoyed at low volume.",
+      "isFeatured": false,
+      "image": "https://i.ibb.co/Cp6kBJgj/hong-kong-city-skyline-cities-2089x1299-art-skyline-hd-art-wallpaper-preview.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Rainy Day Jazz",
+      "slug": "rainy-day-jazz",
+      "description": "Smooth jazz tones that match a rainy afternoon.Creates a cozy and mellow atmosphere indoors.",
+      "price": 1.75,
+      "instruction": "Ideal for coffee shop ambiance.",
+      "isFeatured": false,
+      "image": "https://i.ibb.co/rRLNMZgP/970640-498024180272150-961866090-n.webp"
+    },
+    {
+      "id": 4,
+      "title": "Night Drive",
+      "slug": "night-drive",
+      "description": "An ambient synthwave track for cruising through the night.Filled with nostalgic 80s vibes and retro energy.",
+      "price": 2.0,
+      "instruction": "Listen with car stereo or headphones.",
+      "isFeatured": true,
+      "image": "https://i.ibb.co/hR5rZq61/artworks-FUQj-Jy5-Nh7r-Kyi-TC-7oyb4w-t1080x1080.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mountain Echo",
+      "slug": "mountain-echo",
+      "description": "A cinematic instrumental inspired by vast landscapes.Powerful and emotional with orchestral elements.",
+      "price": 2.99,
+      "instruction": "Play in quiet surroundings for full effect.",
+      "isFeatured": true,
+      "image": "https://i.ibb.co/3bSytdf/2011-12-26-Echo-Mtn-Piste.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Ocean Breeze",
+      "slug": "ocean-breeze",
+      "description": "Relaxing tropical sounds with soft guitar strums.Perfect for meditation or beach-themed moments.",
+      "price": 1.5,
+      "instruction": "Loop for continuous relaxation.",
+      "isFeatured": false,
+      "image": "https://i.ibb.co/5hYrg7Zm/cruise-ship-vacation-woman-enjoying-travel-having-fun-sea-free-carefree-happy-girl-looking-ocean-ope.webp"
+    },
+    {
+      "id": 7,
+      "title": "Fire in the Sky",
+      "slug": "fire-in-the-sky",
+      "description": "A dramatic rock anthem with explosive guitar solos.Great for motivation and adrenaline boosts.",
+      "price": 2.25,
+      "instruction": "Play loud for maximum impact.",
+      "isFeatured": true,
+      "image": "https://i.ibb.co/1Y8wkb5q/fireintheskybr-1000x600.webp"
+    },
+    {
+      "id": 8,
+      "title": "Starlight Waltz",
+      "slug": "starlight-waltz",
+      "description": "A delicate piano waltz under a starry sky.Romantic, slow-paced, and full of emotion.",
+      "price": 1.99,
+      "instruction": "Best with candlelight or night setting.",
+      "isFeatured": false,
+      "image": "https://i.ibb.co/jvmWxjHM/maxresdefault-1.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Digital Dreams",
+      "slug": "digital-dreams",
+      "description": "Futuristic beats mixed with glitchy textures.Perfect for tech content, gaming, or sci-fi themes.",
+      "price": 2.1,
+      "instruction": "Sync well with visual media.",
+      "isFeatured": false,
+      "image": "https://i.ibb.co/GfPNJp0V/Digital-Dreams-2016.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Whispers of Wind",
+      "slug": "whispers-of-wind",
+      "description": "Nature-inspired acoustic piece with wind chimes.Ideal for yoga, relaxation, or focus sessions.",
+      "price": 1.8,
+      "instruction": "Use in low-noise environments.",
+      "isFeatured": true,
+      "image": "https://i.ibb.co/ZRsvhs7S/AAAABW-Jt6ru-Drqc-EGCt-WO4j-Yw6xc-VKHecg-Kc9gb-Wj-Ye-Ac-N-2-EQl-GPr2-g-Hbs-MEf-UIo-Mwi3-XPd-Cq-TMd-L.jpg"
+    }
+  ]
+}
